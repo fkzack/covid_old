@@ -13282,7 +13282,7 @@
 </g>
 <g style="fill:rgb(0%,0%,0%);fill-opacity:1;">
   <use xlink:href="#glyph4-6" x="44.667969" y="231.083008"/>
-  <use xlink:hbef="#glyph4-3" x="49.667969" y="231.083008"/>
+  <use xlink:href="#glyph4-3" x="49.667969" y="231.083008"/>
 </g>
 <g clip-path="url(#clip903)" clip-rule="nonzero">
 <path style="fill:none;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(0%,0%,0%);stroke-opacity:0.0980392;stroke-miterlimit:10;" d="M 66.007812 261.703125 L 127.757812 261.703125 "/>
